@@ -45,7 +45,11 @@ export class Projects extends Component {
             image={appvilla}
             text="Appvilla"
           />
-          <Card lien="" image={booking} text="Booking Project" />
+          <Card
+            lien="https://github.com/walidchahidan/booking-project"
+            image={booking}
+            text="Booking Project"
+          />
         </div>
         <a
           id="more"
