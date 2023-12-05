@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4cd115b7.css",
-    "main.js": "/portfolio/static/js/main.c3c2a5fd.js",
+    "main.js": "/portfolio/static/js/main.d9f66f94.js",
     "static/media/quotes.png": "/portfolio/static/media/quotes.1ad32d0ebfa2d5d93885.png",
     "static/media/Capture squad.png": "/portfolio/static/media/Capture squad.f436c33402746566b304.png",
     "static/media/PHOTObackkk.jpg": "/portfolio/static/media/PHOTObackkk.f5b138c952655bab3754.jpg",
     "static/media/somme up.png": "/portfolio/static/media/somme up.4cf92ef4356e98904b19.png",
+    "static/media/booking.jpg": "/portfolio/static/media/booking.1d81f5b3e658504fc725.jpg",
     "static/media/Capture Appvilla.png": "/portfolio/static/media/Capture Appvilla.cc514fb301d668a83b2b.png",
     "static/media/Capture green office.png": "/portfolio/static/media/Capture green office.77e2298f601ee27df916.png",
-    "static/media/cv.png": "/portfolio/static/media/cv.6fa4f6ecc3a5d2503142.png",
     "static/media/devinette.png": "/portfolio/static/media/devinette.eb780c9a88a558dbaf88.png",
     "static/media/calcul.png": "/portfolio/static/media/calcul.649c1efd64a5d2fffdb4.png",
     "static/media/Capture fish.png": "/portfolio/static/media/Capture fish.70b864c42980e2da071f.png",
@@ -17,10 +17,10 @@
     "static/media/logoportfolio.png": "/portfolio/static/media/logoportfolio.bfc65d1ec5f174328b25.png",
     "index.html": "/portfolio/index.html",
     "main.4cd115b7.css.map": "/portfolio/static/css/main.4cd115b7.css.map",
-    "main.c3c2a5fd.js.map": "/portfolio/static/js/main.c3c2a5fd.js.map"
+    "main.d9f66f94.js.map": "/portfolio/static/js/main.d9f66f94.js.map"
   },
   "entrypoints": [
     "static/css/main.4cd115b7.css",
-    "static/js/main.c3c2a5fd.js"
+    "static/js/main.d9f66f94.js"
   ]
 }
